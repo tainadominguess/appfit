@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Minha pagina inicial</title>
-    <link rel="stylessheet"href="personalização.css">
+    <link rel="stylessheet"href="personalizacao.css">
   </head>
   <body>
     <h1>Minha pagina inicial</h1>
