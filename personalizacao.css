@@ -4,8 +4,8 @@ body {
 }
 
 h1 {
-  color:#E6E6FA
-    text-align:center
+  color:#E6E6FA;
+    text-align:center;
 }
 
 p {
@@ -19,8 +19,8 @@ p {
  background-collor: #008080;
   border:none;
   color:#836FFF;
-  cursor: poin
-    padding:10px 20px
+  cursor: pointer;
+    padding:10px 20px;
     text-decoration: none;
   display:inline-block;
   font-size: 16px;
